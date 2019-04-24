@@ -4,4 +4,7 @@ email: 3dw4rd@verizon.net
 #twitter_username: ems_r
 github_username:  emsr
 
+markdown: kramdown
 theme: jekyll-theme-merlot
+
+permalink: /blog/:year/:month/:day/:title

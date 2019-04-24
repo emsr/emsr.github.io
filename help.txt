@@ -16,3 +16,9 @@ sudo bundle install
 
 # To update gems:
 sudo bundle update
+
+# To make the site I marched through this article:
+http://jmcglone.com/guides/github-pages/
+
+# There is a Liquid language reference that I'll want later:
+https://jekyllrb.com/docs/liquid/
